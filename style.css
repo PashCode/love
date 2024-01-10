@@ -9,7 +9,6 @@ body {
   width: 100%;
   background: linear-gradient(45deg, #e7bde9, #006eff);
   animation: gradient 10s infinite linear;
-  background-size: 400%;
 }
 
 .container {
